@@ -4,13 +4,9 @@ $categoria = [];
 $categoria[] = 'infantil';
 $categoria[] = 'adolescente';
 $categoria[] = 'adulto';
-//print_r($categoria);
 
 $nome = 'Gerson';
 $idade = 7;
-
-//var_dump($nome);
-//var_dump($idade);
 
 if ($idade >= 6 && $idade <= 12 )
 {
